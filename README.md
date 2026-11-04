@@ -1,2 +1,20 @@
-# coding-test
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 🔥 Algorithm
+
+매일 알고리즘 문제를 풀고 기록하는 저장소입니다.
+
+## 🎯 목표
+- 하루 최소 3문제 풀기
+- 풀이마다 아이디어와 실수한 부분을 주석으로 기록하기
+- 프로그래머스 Lv.2를 안정적으로 풀기 → Lv.3 도전
+
+## 🛠 사용 언어
+- **Python** (주 언어)
+- **C++** (임베디드 직무 대비, 예정)
+
+## 📁 구조
+- `프로그래머스/` : 레벨별 → 문제별 폴더
+- `백준/` : 티어별 → 문제별 폴더
+
+## 📝 풀이 규칙
+- 코드 맨 위에 `유형 / 아이디어 / 주의할 점`을 주석으로 남깁니다.
+- 20분 넘게 막히면 힌트를 보고, 다음 날 다시 풀어 봅니다.
